@@ -3,6 +3,6 @@
 
 -[Suar](suar.md)
 
--[Bro Gen](bro.md)
+-[LIN](Lin.md)
 
 -[Hex](Hex.md)
