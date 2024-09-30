@@ -11,7 +11,7 @@ Welcome to the project introduction page for Team 1! We are a technology-focused
 
   **Expertise**: Website maintain、computer vision、machine learning.
 
-- [Suar (Click for more info)](Suar.md)  
+- [Suar (Click for more info)](suar.md)  
   **主要專長**：
 
   **Expertise**: 
