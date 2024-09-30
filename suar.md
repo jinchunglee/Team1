@@ -1,3 +1,3 @@
 Hi, my name is **Suar**
 
-![alt text](tugas.jpeg)
+![alt text](image\tugas.jpeg)
