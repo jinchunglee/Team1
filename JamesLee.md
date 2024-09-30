@@ -6,6 +6,7 @@
 - I am current undergraduate Electrical Engineering student in CYCU.
 - I like to challenge myself and explore new areas
 And I work as intern in computer vision algorithm development at Delta Inc.
+- [James Personal website](https://jinchunglee.github.io/JinChengLeeWeb.github.io/)
 - [James Linkedin](https://www.linkedin.com/in/jin-cheng-lee-b70250269/)
 - [James Youtube](https://www.youtube.com/@JamesLee-ub4rm)
 
