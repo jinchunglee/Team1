@@ -1,8 +1,8 @@
 # Team 1
 
-歡迎來到 Team 1 的專案介紹頁面！我們是一支專注於技術開發的團隊，擁有豐富的多領域專長。我們致力於通過創新技術解決複雜問題，並將最新技術應用於實際的專案中。
+歡迎來到 Team 1 的專案介紹頁面！我們是一支專注於技術開發的團隊，擁有豐富的多領域專長。我們致力於通過創新技術解決複雜問題，並將最新技術應用於實際的專案中。我們也會紀錄在[Weekly_Diary](Weekly_diary)區域
 
-Welcome to the project introduction page for Team 1! We are a technology-focused team with expertise in various fields. Our goal is to solve complex problems through innovative technologies and apply the latest advancements to real-world projects.
+Welcome to the project introduction page for Team 1! We are a technology-focused team with expertise in various fields. Our goal is to solve complex problems through innovative technologies and apply the latest advancements to real-world projects. we are also 
 
 ## 團隊成員 | Team Members
 
