@@ -13,5 +13,5 @@ And I work as intern in computer vision algorithm development at Delta Inc.
 
 
 Below is the 3D model I design during class.
-![Apple Watch 45mm case](image\james_case_model.png)
-![Apple Watch 45mm case](image\james_case_solid.png)
+![Apple Watch 45mm case](image/james_case_model.png)
+![Apple Watch 45mm case](image/james_case_solid.png)
