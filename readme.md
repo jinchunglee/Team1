@@ -42,4 +42,4 @@ Our latest project integrates artificial intelligence, front-end and back-end de
 If you're interested in our project or technology, feel free to reach out! You can find our contact information on each member's page or contact us through the following methods:
 
 - Email: jameslee9168@gmail.com, 
-- GitHub: [This GitHub Repository](https://github.com/jinchunglee/Team1?tab=readme-ov-file)
+- GitHub: [This GitHub Repository](https://github.com/jinchunglee/Team1.github.io)
